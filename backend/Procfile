@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT trueetalent_4458.wsgi:application
